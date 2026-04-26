@@ -21,7 +21,6 @@
 
 **仓库地址：** https://github.com/yexiaozhou0520-cmd/option-pricing-project
 
----
 
 #### 2. 信用评分卡模型实现（逻辑回归 + WOE/IV）
 - 基于 Python 实现风控场景标准信用评分卡建模流程，完成从数据清洗、WOE/IV 特征分箱、逻辑回归训练到评分卡刻度转换的全链路开发
