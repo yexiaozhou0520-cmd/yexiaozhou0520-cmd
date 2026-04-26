@@ -6,9 +6,9 @@
 ---
 
 ### 🧩 About Me
-- 📚 Currently exploring **financial engineering** and **time series modeling** with Python
-- 🧮 Strong foundation in quantitative finance (Quantitative Investment: 87) and applied mathematics (Stochastic Processes: 94)
-- 🚀 Building practical projects to bridge finance and technology, with a focus on reproducibility and clear documentation
+- 📚 中央财经大学 大数据管理与应用专业，数理与计算机基础扎实
+- 🧮 核心高分课程：最优化方法(99)、概率论与数理统计(95)、应用随机过程(94)、机器学习(91)、Python大数据分析(91)
+- 🚀 擅长金融科技、量化分析、信用风控建模，坚持可复现、工程化、文档清晰的项目标准
 
 ---
 
