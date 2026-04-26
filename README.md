@@ -23,6 +23,14 @@
 
 ---
 
+#### 2. 信用评分卡模型实现（逻辑回归 + WOE/IV）
+- 基于 Python 实现风控场景标准信用评分卡建模流程，完成从数据清洗、WOE/IV 特征分箱、逻辑回归训练到评分卡刻度转换的全链路开发
+- 模型 AUC 达到 0.67，通过 ROC 曲线验证模型对客户违约风险的区分能力，并将预测概率映射为 300-850 区间的业务可解释信用分数
+- 项目包含完整 README 文档、模型评估可视化结果与标准化仓库结构，体现对金融风控业务逻辑与模型工程化落地的理解
+
+仓库地址：https://github.com/yexiaozhou0520-cmd/credit-scorecard-model
+
+---
 ### 🛠️ Tech Stack
 - **Languages**: Python
 - **Libraries**: NumPy, SciPy, Matplotlib, Pandas
