@@ -1,5 +1,6 @@
 # 👋 Hi, I'm Ye Xiaozhou
 **🎓 Undergraduate Student | Central University of Finance and Economics**
+
 📊 Major: Big Data Management and Application  
 📍 Focus: FinTech, Quantitative Finance & Data Analytics  
 
@@ -35,7 +36,15 @@
 
 仓库地址：https://github.com/yexiaozhou0520-cmd/macro-economic-forecast
 
+**4. 经济数据自动化分析平台（Python + Streamlit）**
+- 基于 Python + Streamlit 构建全栈式经济数据自动化分析平台，整合宏观经济指标数据采集、清洗、多维度可视化与交互式分析功能，实现一键式经济趋势洞察
+- 集成 Pandas、NumPy 完成数据处理，通过 Matplotlib/Plotly 实现经济指标时序趋势图、相关性热力图与多维度对比分析，支持用户自主筛选指标与时间范围
+- 项目构建了标准化 GitHub 仓库与可直接部署的 Streamlit 应用，包含完整 README 文档、依赖配置与运行截图，体现数据工程、可视化与产品化落地的综合能力
+
+仓库地址：https://github.com/yexiaozhou0520/economic-data-automation-platform
+
 ---
+
 ### 🛠️ Tech Stack
 - **Languages**: Python
 - **Libraries**: NumPy, SciPy, Matplotlib, Pandas
